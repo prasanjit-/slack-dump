@@ -1,6 +1,6 @@
 # slack-dump
 Generate an export of Channel and / or Private Group history and export it as a ZIP file compatible with Slack's import tool.
-
+(Allows a complete export of Slack Channels)
 ## Usage
 
 ```
